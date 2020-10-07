@@ -5,7 +5,9 @@
 ### Лекции:
 1) Введение в Python
 2) Библиотека Numpy
+3) Библиотека PANDAS
    
 ### Hometasks:
 1) Введение в Python (контест)
 2) К/р Numpy
+3) К/р PANDAS
