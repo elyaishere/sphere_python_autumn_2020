@@ -1,5 +1,5 @@
 # sphere_python_autumn_2020
-## Python lectures and hometasks.
+## Python lectures and hometasks
 [Видеолекции](https://www.youtube.com/playlist?list=PLrCZzMib1e9p6lpNv-yt6uvHGyBxQncEh)
 
 ### Лекции:
